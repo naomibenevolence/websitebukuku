@@ -1,0 +1,1721 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.website-bukuku-Ri1 {
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+
+  .navigation-xxq {
+    width: 100%;
+    height: 12.6rem;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 4.9rem 6rem 3.8rem 6rem;
+
+    .bukuku-sK7 {
+      font-family: Poppins, 'Source Sans Pro';
+      margin: 0rem 8.1rem 1.1rem 0rem;
+      font-size: 1.8rem;
+      font-weight: 700;
+      letter-spacing: 0.05rem;
+      color: #000000;
+      line-height: 0.7777777778;
+      white-space: nowrap;
+      display: flex;
+      align-items: baseline;
+      flex-shrink: 0;
+
+      .bukuku-sK7-sub-0 {
+      }
+      .bukuku-sK7-sub-1 {
+        color: #1b2a7a;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8rem;
+        font-weight: 700;
+        line-height: 0.7777777778;
+        letter-spacing: 0.05rem;
+      }
+      .bukuku-sK7-sub-2 {
+        font-weight: 700;
+        line-height: 0.7777777778;
+        letter-spacing: 0.05rem;
+        color: #1b2a7a;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 1.8rem;
+      }
+    }
+    .search-76y {
+      border-radius: 3rem;
+      margin-right: 8rem;
+      padding: 1.2rem 39rem 1.2rem 2.2rem;
+      height: 100%;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      box-sizing: border-box;
+      position: relative;
+      border: solid 0.1rem #8395a7;
+      background-color: #ffffff;
+      flex-shrink: 0;
+
+      .searchduotone-qHs {
+        margin-right: 1.9rem;
+        width: 1.5rem;
+        height: 1.5rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .cari-judul-buku-NYh {
+        font-weight: 500;
+        color: #8395a7;
+        white-space: nowrap;
+        margin-bottom: 0.1rem;
+        font-size: 1.6rem;
+        line-height: 0.875;
+        letter-spacing: 0.03rem;
+        font-family: Poppins, 'Source Sans Pro';
+        flex-shrink: 0;
+      }
+    }
+    .beranda-T4M {
+      flex-direction: column;
+      border-radius: 3rem;
+      flex-shrink: 0;
+      margin: 0.9rem 2.8rem 0rem 0rem;
+      display: flex;
+
+      .beranda-z4H {
+        margin-bottom: 1rem;
+        line-height: 0.875;
+        letter-spacing: 0.05rem;
+        color: #1b2a7a;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        font-size: 1.6rem;
+        font-weight: 500;
+        flex-shrink: 0;
+      }
+      .rectangle-11-hzH {
+        width: 7.2rem;
+        height: 0.4rem;
+        background-color: #1b2a7a;
+        border-radius: 3rem;
+        flex-shrink: 0;
+      }
+    }
+    .kategori-RfP {
+      height: calc(100% - 1.0412rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0.4rem 2.4rem 0.641rem 0rem;
+      box-sizing: border-box;
+      padding: 0.6rem 0.641rem 0.859rem 0rem;
+
+      .kategori-jg5 {
+        margin-right: 0.7413rem;
+        font-size: 1.6rem;
+        font-weight: 500;
+        letter-spacing: 0.05rem;
+        color: #8395a7;
+        white-space: nowrap;
+        flex-shrink: 0;
+        line-height: 0.875;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .keyboardarrowdown-eo3 {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-top: 0.2588rem;
+        width: 1.1175rem;
+        height: 0.7844rem;
+      }
+    }
+    .bantuan-AWV {
+      color: #8395a7;
+      font-family: Poppins, 'Source Sans Pro';
+      flex-shrink: 0;
+      margin: 0rem 2.5rem 0.5rem 0rem;
+      font-weight: 500;
+      letter-spacing: 0.05rem;
+      white-space: nowrap;
+      font-size: 1.6rem;
+      line-height: 0.875;
+    }
+    .kontak-GpR {
+      letter-spacing: 0.05rem;
+      color: #8395a7;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.6rem;
+      font-weight: 500;
+      line-height: 0.875;
+      margin: 0rem 2.7rem 0.5rem 0rem;
+    }
+    .masuk-nXs {
+      display: flex;
+      align-items: center;
+      border: solid 0.1rem #8395a7;
+      box-sizing: border-box;
+      width: 10.5rem;
+      font-weight: 500;
+      letter-spacing: 0.05rem;
+      font-family: Poppins, 'Source Sans Pro';
+      font-size: 1.6rem;
+      background-color: #ffffff;
+      white-space: nowrap;
+      justify-content: center;
+      border-radius: 3rem;
+      flex-shrink: 0;
+      overflow: hidden;
+      position: relative;
+      line-height: 0.875;
+      color: #000000;
+      height: 100%;
+    }
+  }
+  .auto-group-1wiz-SMX {
+    padding: 1.2rem 6rem 5.4rem 6rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+
+    .hero-wJH {
+      position: relative;
+      overflow: hidden;
+      background-color: #e3f3ff;
+      border-radius: 3rem;
+      flex-shrink: 0;
+      margin-bottom: 6.4rem;
+      width: 100%;
+      height: 82.6rem;
+
+      .auto-group-dzw3-gWm {
+        left: 5.6rem;
+        top: 5.2rem;
+        display: flex;
+        align-items: center;
+        width: 121.7rem;
+        height: 27.3rem;
+        position: absolute;
+
+        .temukan-inspirasi-melalui-buku-menarik-secara-daring-obP {
+          margin: 4.8rem 7.7rem 0rem 0rem;
+          max-width: 55.1rem;
+          color: #000000;
+          font-size: 4.8rem;
+          font-weight: 700;
+          line-height: 1.5625;
+          letter-spacing: 0.03rem;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+
+          .temukan-inspirasi-melalui-buku-menarik-secara-daring-obP-sub-0 {
+          }
+          .temukan-inspirasi-melalui-buku-menarik-secara-daring-obP-sub-1 {
+            font-size: 4.8rem;
+            font-weight: 700;
+            line-height: 1.5625;
+            letter-spacing: 0.03rem;
+            color: #000000;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+          .temukan-inspirasi-melalui-buku-menarik-secara-daring-obP-sub-2 {
+            letter-spacing: 0.03rem;
+            color: #1b2a7a;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 4.8rem;
+            font-weight: 700;
+            line-height: 1.5625;
+          }
+          .temukan-inspirasi-melalui-buku-menarik-secara-daring-obP-sub-3 {
+            line-height: 1.5625;
+            letter-spacing: 0.03rem;
+            color: #000000;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 4.8rem;
+            font-weight: 700;
+          }
+        }
+        .icon-sun-CG9 {
+          overflow: hidden;
+          position: relative;
+          flex-shrink: 0;
+          margin: 0rem 26.9rem 11.3rem 0rem;
+
+          .bolt-isolated-2-YL1 {
+            width: 16rem;
+            height: 16rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+        }
+        .icon-clouds-UzM {
+          overflow: hidden;
+          position: relative;
+          flex-shrink: 0;
+          margin: 8rem 0rem 3.3rem 0rem;
+          height: calc(100% - 11.3rem);
+
+          .bolt-isolated-2-poK {
+            width: 16rem;
+            height: 16rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+        }
+      }
+      .dapatkan-berbagai-motivasi-inspirasi-serta-referensi-terkini-melalui-bukuku-AMP {
+        line-height: 1.65;
+        letter-spacing: 0.05rem;
+        font-family: Poppins, 'Source Sans Pro';
+        height: 6.6rem;
+        position: absolute;
+        left: 5.6rem;
+        top: 38.1rem;
+        font-weight: 500;
+        width: 46.9rem;
+        font-size: 2rem;
+        color: #000000;
+
+        .dapatkan-berbagai-motivasi-inspirasi-serta-referensi-terkini-melalui-bukuku-AMP-sub-0 {
+        }
+        .dapatkan-berbagai-motivasi-inspirasi-serta-referensi-terkini-melalui-bukuku-AMP-sub-1 {
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.65;
+          letter-spacing: 0.05rem;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .dapatkan-berbagai-motivasi-inspirasi-serta-referensi-terkini-melalui-bukuku-AMP-sub-2 {
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.65;
+          letter-spacing: 0.05rem;
+          color: #1b2a7a;
+        }
+      }
+      .auto-group-7w8h-fay {
+        width: 106.8rem;
+        height: 27.9rem;
+        position: absolute;
+        left: 5.6rem;
+        top: 53.9rem;
+        display: flex;
+        align-items: flex-start;
+
+        .masuk-button-z7T {
+          font-family: Poppins, 'Source Sans Pro';
+          background-color: #1b2a7a;
+          flex-shrink: 0;
+          height: 5.8rem;
+          position: relative;
+          line-height: 0.7;
+          letter-spacing: 0.03rem;
+          color: #ffffff;
+          border-radius: 3rem;
+          margin: 1.9rem 24.7rem 0rem 0rem;
+          text-align: center;
+          font-weight: 700;
+          display: flex;
+          align-items: center;
+          width: 17.6rem;
+          overflow: hidden;
+          font-size: 2rem;
+          white-space: nowrap;
+          justify-content: center;
+        }
+        .icon-clouds-EGh {
+          margin: 0rem 32.5rem 11.9rem 0rem;
+          overflow: hidden;
+          position: relative;
+          flex-shrink: 0;
+
+          .bolt-isolated-2-N81 {
+            width: 16rem;
+            height: 16rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+        }
+        .icon-clouds-hg5 {
+          position: relative;
+          flex-shrink: 0;
+          margin-top: 11.9rem;
+          overflow: hidden;
+
+          .bolt-isolated-2-TfF {
+            width: 16rem;
+            height: 16rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+        }
+      }
+      .removebg-preview-1-1Rs {
+        left: 70.2rem;
+        top: 16.1rem;
+        width: 49.2rem;
+        height: 50.4rem;
+        position: absolute;
+
+        .removebg-preview-1-jcm {
+          width: 49.2rem;
+          height: 50.4rem;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+    }
+    .berbagai-pilihan-buku-menarik-sDB {
+      margin: 0rem 0.7rem 5.2rem 0rem;
+      font-size: 3.6rem;
+      font-family: Poppins, 'Source Sans Pro';
+      align-items: baseline;
+      flex-shrink: 0;
+      font-weight: 700;
+      line-height: 2.0833333333;
+      letter-spacing: 0.03rem;
+      color: #000000;
+      white-space: nowrap;
+      display: flex;
+
+      .berbagai-pilihan-buku-menarik-sDB-sub-0 {
+      }
+      .berbagai-pilihan-buku-menarik-sDB-sub-1 {
+        letter-spacing: 0.03rem;
+        color: #1b2a7a;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 700;
+        line-height: 2.0833333333;
+      }
+      .berbagai-pilihan-buku-menarik-sDB-sub-2 {
+      }
+    }
+    .auto-group-pveh-boP {
+      margin-bottom: 5.4rem;
+      width: 100%;
+      height: 51.6rem;
+      display: flex;
+      column-gap: 5.7rem;
+      align-items: center;
+      flex-shrink: 0;
+
+      .buku-1-jPo {
+        width: 40.2rem;
+        overflow: hidden;
+        flex-direction: column;
+        box-shadow: 0 3rem 4.5rem rgba(0, 0, 0, 0.1000000015);
+        border-radius: 3rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        height: 100%;
+        position: relative;
+        align-items: center;
+        display: flex;
+        background-color: #ffffff;
+        padding: 4rem 3rem 3.2rem 3rem;
+
+        .frame-2-EbT {
+          border-radius: 3rem;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 4.5rem 8rem 4.6rem 8rem;
+          width: 100%;
+          overflow: hidden;
+          margin-bottom: 2.3rem;
+          position: relative;
+          background-color: #e3f3ff;
+
+          .filosofi-terass-1-xnM {
+            width: 18.2rem;
+            height: 26.7rem;
+            position: relative;
+            background-size: 129.375% 100%;
+            background-position: -2.73rem 0rem;
+            background-image: url('REPLACE_IMAGE:ed603809cff6e7018cf3431f2741e2d595bee516');
+          }
+        }
+        .group-1-q5T {
+          margin: 0 0.4rem;
+          width: calc(100% - 0.8rem);
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .auto-group-lf4u-Nr5 {
+            margin-bottom: 2.9rem;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .filosofi-teras-t5f {
+              font-weight: 600;
+              flex-shrink: 0;
+              font-size: 2.4rem;
+              line-height: 0.5833333333;
+              letter-spacing: 0.03rem;
+              color: #000000;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              margin: 0.6rem 10.5rem 0rem 0rem;
+            }
+            .baca-AJ5 {
+              font-weight: 500;
+              letter-spacing: 0.03rem;
+              color: #1b2a7a;
+              white-space: nowrap;
+              margin-bottom: 0.6rem;
+              font-size: 1.6rem;
+              line-height: 0.875;
+              font-family: Poppins, 'Source Sans Pro';
+              flex-shrink: 0;
+            }
+          }
+          .self-improvement-Tny {
+            letter-spacing: 0.03rem;
+            color: #6d6e71;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2rem;
+            font-weight: 500;
+            line-height: 0.7;
+          }
+        }
+      }
+      .buku-2-9vh {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 3rem 4.5rem rgba(0, 0, 0, 0.1000000015);
+        background-color: #ffffff;
+        padding: 4rem 3rem 3.2rem 3rem;
+        width: 40.2rem;
+        overflow: hidden;
+        border-radius: 3rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        height: 100%;
+        position: relative;
+
+        .frame-2-4nm {
+          margin-bottom: 2.3rem;
+          width: 100%;
+          overflow: hidden;
+          position: relative;
+          background-color: #e3f3ff;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 4.2rem 7.1rem 4.3rem 7rem;
+          border-radius: 3rem;
+
+          .automic-habits-1-oVT {
+            object-fit: cover;
+            vertical-align: top;
+            width: 20.1rem;
+            height: 27.3rem;
+          }
+        }
+        .group-2-81w {
+          margin: 0 0.4rem;
+          width: calc(100% - 0.8rem);
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .auto-group-dzdf-GP3 {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            margin-bottom: 2.9rem;
+
+            .automic-habits-1Ld {
+              margin: 0.6rem 8.2rem 0rem 0rem;
+              font-size: 2.4rem;
+              color: #000000;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-weight: 600;
+              line-height: 0.5833333333;
+              letter-spacing: 0.03rem;
+            }
+            .baca-7uT {
+              font-weight: 500;
+              letter-spacing: 0.03rem;
+              color: #1b2a7a;
+              flex-shrink: 0;
+              margin-bottom: 0.6rem;
+              font-size: 1.6rem;
+              line-height: 0.875;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .self-improvement-eeV {
+            line-height: 0.7;
+            letter-spacing: 0.03rem;
+            color: #6d6e71;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2rem;
+            font-weight: 500;
+          }
+        }
+      }
+      .buku-3-MYu {
+        box-shadow: 0 3rem 4.5rem rgba(0, 0, 0, 0.1000000015);
+        background-color: #ffffff;
+        border-radius: 3rem;
+        flex-shrink: 0;
+        padding: 4rem 3rem 3.2rem 3rem;
+        height: 100%;
+        overflow: hidden;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        width: 40.2rem;
+        position: relative;
+
+        .frame-2-g5P {
+          margin-bottom: 2.3rem;
+          padding: 3.5rem 7.7rem 3.6rem 7.6rem;
+          position: relative;
+          background-color: #e3f3ff;
+          border-radius: 3rem;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          width: 100%;
+          overflow: hidden;
+
+          .buku-laut-bercerita-1-Niu {
+            width: 18.9rem;
+            height: 28.7rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .group-1-gjb {
+          flex-shrink: 0;
+          margin: 0 0.4rem;
+          width: calc(100% - 0.8rem);
+          display: flex;
+          flex-direction: column;
+
+          .auto-group-simw-pL1 {
+            align-items: center;
+            flex-shrink: 0;
+            margin-bottom: 2.9rem;
+            width: 100%;
+            display: flex;
+
+            .laut-bercerita-xx1 {
+              font-weight: 600;
+              line-height: 0.5833333333;
+              letter-spacing: 0.03rem;
+              color: #000000;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin: 0.6rem 9.4rem 0rem 0rem;
+              font-size: 2.4rem;
+            }
+            .baca-GC1 {
+              line-height: 0.875;
+              letter-spacing: 0.03rem;
+              color: #1b2a7a;
+              font-family: Poppins, 'Source Sans Pro';
+              font-size: 1.6rem;
+              font-weight: 500;
+              flex-shrink: 0;
+              margin-bottom: 0.6rem;
+              white-space: nowrap;
+            }
+          }
+          .novel-P1j {
+            line-height: 0.7;
+            letter-spacing: 0.03rem;
+            color: #6d6e71;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2rem;
+            font-weight: 500;
+          }
+        }
+      }
+    }
+    .titik-1-sxV {
+      margin: 0rem 61.8rem 9.1rem 61.8rem;
+      width: calc(100% - 123.6rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .ellipse-12-QBj {
+        margin-right: 1.4609rem;
+        width: 1.8261rem;
+        height: 1.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .ellipse-13-99K {
+        height: 1.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 1.4609rem;
+        width: 1.8261rem;
+      }
+      .ellipse-14-tMo {
+        width: 1.8261rem;
+        height: 1.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .tentang-bukuku-1hK {
+      border-radius: 3rem;
+      flex-shrink: 0;
+      margin-bottom: 10rem;
+      width: 100%;
+      height: 36.9rem;
+      position: relative;
+      overflow: hidden;
+      background-color: #e3f3ff;
+
+      .adalah-sebuah-platform-yang-dapat-memudahkan-pengguna-untuk-menemukan-berbagai-judul-buku-secara-digital-92q {
+        height: 12rem;
+        position: absolute;
+        top: 18.9rem;
+        font-size: 2.4rem;
+        line-height: 1.6666666667;
+        color: #000000;
+        width: 63.8rem;
+        left: 7.2rem;
+        font-weight: 500;
+        letter-spacing: 0.03rem;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .tentang-bukuku-zp9 {
+        top: 6rem;
+        letter-spacing: 0.03rem;
+        position: absolute;
+        line-height: 1.1111111111;
+        font-family: Poppins, 'Source Sans Pro';
+        display: flex;
+        align-items: baseline;
+        width: 31.9rem;
+        left: 7.2rem;
+        font-size: 3.6rem;
+        font-weight: 700;
+        color: #000000;
+        white-space: nowrap;
+        height: 4rem;
+
+        .tentang-bukuku-zp9-sub-0 {
+          line-height: 1.1111111111;
+          letter-spacing: 0.03rem;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 700;
+        }
+        .tentang-bukuku-zp9-sub-1 {
+          font-size: 3.6rem;
+          font-weight: 700;
+          line-height: 1.1111111111;
+          letter-spacing: 0.03rem;
+          color: #1b2a7a;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .tentang-bukuku-zp9-sub-2 {
+          font-size: 3.6rem;
+          font-weight: 700;
+          line-height: 1.1111111111;
+          letter-spacing: 0.03rem;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+      }
+      .bukuku-3R3 {
+        width: 12.2rem;
+        letter-spacing: 0.03rem;
+        left: 7.2rem;
+        line-height: 1.4285714286;
+        white-space: nowrap;
+        display: flex;
+        position: absolute;
+        font-weight: 700;
+        font-family: Poppins, 'Source Sans Pro';
+        align-items: baseline;
+        height: 4rem;
+        top: 14rem;
+        font-size: 2.8rem;
+        color: #000000;
+
+        .bukuku-3R3-sub-0 {
+          line-height: 1.4285714286;
+          letter-spacing: 0.03rem;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 2.8rem;
+          font-weight: 700;
+        }
+        .bukuku-3R3-sub-1 {
+          letter-spacing: 0.03rem;
+          color: #1b2a7a;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 2.8rem;
+          font-weight: 700;
+          line-height: 1.4285714286;
+        }
+        .bukuku-3R3-sub-2 {
+          letter-spacing: 0.03rem;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 2.8rem;
+          font-weight: 700;
+          line-height: 1.4285714286;
+        }
+      }
+      .d-character-Wxq {
+        height: 25.2rem;
+        position: absolute;
+        left: 79rem;
+        top: 5.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 40rem;
+      }
+      .mask-group-r17 {
+        left: 38.2rem;
+        top: -25.1rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 52.5098rem;
+        height: 47.775rem;
+        position: absolute;
+      }
+      .mask-group-NEM {
+        height: 47.775rem;
+        position: absolute;
+        left: 97rem;
+        top: 14.1rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 52.5098rem;
+      }
+      .group-6w3 {
+        width: 14rem;
+        height: 7.5rem;
+        position: absolute;
+        left: 57rem;
+        top: 31.7rem;
+        display: flex;
+        align-items: flex-start;
+
+        .group-p6M {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 1.7895rem;
+          width: 1.3684rem;
+          height: 4.3421rem;
+          position: relative;
+          object-fit: contain;
+        }
+        .group-wgm {
+          width: 1.3684rem;
+          height: 4.3421rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 1.7894rem;
+        }
+        .group-t6D {
+          width: 1.3685rem;
+          height: 4.3421rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 1.7894rem;
+        }
+        .group-cH7 {
+          width: 1.3685rem;
+          height: 7.5rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 1.7895rem;
+        }
+        .group-YRf {
+          height: 7.5rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 1.3684rem;
+        }
+      }
+      .vector-16-5gV {
+        left: 34.2rem;
+        top: 30.6rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 4.744rem;
+        height: 2.9911rem;
+        position: absolute;
+      }
+      .vector-14-buj {
+        height: 4.563rem;
+        position: absolute;
+        left: 49.2rem;
+        top: 7.7rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2.8297rem;
+      }
+      .vector-15-wCu {
+        width: 3.8328rem;
+        height: 5.1099rem;
+        position: absolute;
+        left: 120.7rem;
+        top: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .testimoni-pengguna-bukuku-3mj {
+      align-items: baseline;
+      font-weight: 700;
+      line-height: 2.0833333333;
+      letter-spacing: 0.03rem;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 0rem 5.2rem 0.5rem;
+      font-size: 3.6rem;
+      color: #000000;
+
+      .testimoni-pengguna-bukuku-3mj-sub-0 {
+      }
+      .testimoni-pengguna-bukuku-3mj-sub-1 {
+        font-size: 3.6rem;
+        font-weight: 700;
+        line-height: 2.0833333333;
+        letter-spacing: 0.03rem;
+        color: #1b2a7a;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .testimoni-pengguna-bukuku-3mj-sub-2 {
+      }
+    }
+    .auto-group-mpwh-BWZ {
+      margin-bottom: 5.4rem;
+      width: 100%;
+      height: 71.4rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .testimoni-1-K6y {
+        border-radius: 3rem;
+        margin-right: 8.6rem;
+        width: 61.7rem;
+        height: 100%;
+        overflow: hidden;
+        box-shadow: 0 3rem 4.5rem rgba(0, 0, 0, 0.1000000015);
+        background-color: #ffffff;
+        box-sizing: border-box;
+        padding: 4rem 3rem 4.216rem 3rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .auto-group-r3jf-RQu {
+          width: 100%;
+          height: 31rem;
+          position: relative;
+          margin-bottom: 4.8rem;
+
+          .frame-2-xvd {
+            overflow: hidden;
+            display: flex;
+            align-items: flex-end;
+            background-color: #e3f3ff;
+            border-radius: 3rem;
+            box-sizing: border-box;
+            left: 0;
+            top: 0;
+            position: absolute;
+            padding: 0rem 6.47rem 0rem 14.6rem;
+            width: 55.7rem;
+            height: 31rem;
+
+            .rose-removebg-preview-1-GgR {
+              height: 34rem;
+              object-fit: cover;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-right: 5.2rem;
+              width: 26.6rem;
+            }
+            .vector-17-CKB {
+              height: 4.5629rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-bottom: 5.3371rem;
+              width: 2.8297rem;
+            }
+          }
+          .vector-16-KPo {
+            left: 8.06rem;
+            top: 6.2813rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 4.8241rem;
+            height: 4.8285rem;
+            position: absolute;
+          }
+        }
+        .auto-group-dmvz-r8q {
+          height: 1.4rem;
+          position: relative;
+          margin: 0rem 0rem 2.4rem 3rem;
+          width: 18.9rem;
+
+          .rose-blackpink-aKj {
+            letter-spacing: 0.03rem;
+            font-family: Poppins, 'Source Sans Pro';
+            height: 1.4rem;
+            position: absolute;
+            left: 0;
+            font-size: 2.4rem;
+            line-height: 0.5833333333;
+            width: 18.9rem;
+            top: 0;
+            font-weight: 600;
+            color: #000000;
+            white-space: nowrap;
+          }
+          .rose-blackpink-HE9 {
+            font-weight: 600;
+            letter-spacing: 0.03rem;
+            white-space: nowrap;
+            height: 1.4rem;
+            position: absolute;
+            top: 0;
+            font-size: 2.4rem;
+            line-height: 0.5833333333;
+            color: #000000;
+            font-family: Poppins, 'Source Sans Pro';
+            width: 18.9rem;
+            left: 0;
+          }
+        }
+        .bukuku-membantu-saya-menemukan-berbagai-judul-buku-yang-tidak-dapat-saya-temukan-di-toko-buku-terima-kasih-buku-telah-membatu-saya-menyelesaikan-tugas-ysf {
+          font-size: 2rem;
+          font-weight: 500;
+          line-height: 2;
+          letter-spacing: 0.03rem;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          margin: 0rem 0rem 4.417rem 3rem;
+          max-width: 49.4rem;
+        }
+        .group-123-2b3 {
+          display: flex;
+          column-gap: 1.8662rem;
+          align-items: center;
+          margin-left: 3.3333rem;
+
+          .iconly-bold-star-kG9 {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 3.3338rem;
+            height: 3.1669rem;
+          }
+          .iconly-bold-star-53X {
+            width: 3.3338rem;
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .iconly-bold-star-cJM {
+            width: 3.3338rem;
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .iconly-bold-star-x7K {
+            width: 3.3338rem;
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .iconly-bold-star-u2Z {
+            width: 3.3338rem;
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+      }
+      .testimoni-2-bRB {
+        background-color: #ffffff;
+        height: 100%;
+        box-shadow: 0 3rem 4.5rem rgba(0, 0, 0, 0.1000000015);
+        width: 61.7rem;
+        overflow: hidden;
+        position: relative;
+        border-radius: 3rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 4rem 3rem 4.216rem 3rem;
+
+        .auto-group-wfyu-7uK {
+          margin-bottom: 4.8rem;
+          width: 100%;
+          height: 31rem;
+          position: relative;
+
+          .frame-2-eeM {
+            width: 55.7rem;
+            height: 31rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            overflow: hidden;
+            background-color: #e3f3ff;
+            border-radius: 3rem;
+
+            .vector-17-b3o {
+              top: 21.1rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 2.8297rem;
+              height: 4.5629rem;
+              position: absolute;
+              left: 46.4rem;
+            }
+            .jennie-removebg-preview-1-v65 {
+              left: 2.3rem;
+              top: -0.8rem;
+              object-fit: cover;
+              vertical-align: top;
+              width: 51.2rem;
+              height: 43.8rem;
+              position: absolute;
+            }
+          }
+          .vector-16-RHj {
+            object-fit: contain;
+            vertical-align: top;
+            width: 4.8241rem;
+            height: 4.8285rem;
+            position: absolute;
+            left: 8.06rem;
+            top: 6.2813rem;
+          }
+        }
+        .jennie-blackpink-YdF {
+          font-size: 2.4rem;
+          font-weight: 600;
+          line-height: 0.5833333333;
+          letter-spacing: 0.03rem;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          margin: 0rem 0rem 2.4rem 3rem;
+        }
+        .tampilan-bukuku-menarik-dan-mudah-dipahami-bukuku-telah-membantu-saya-untuk-menemukan-series-buku-favorit-saya-terima-kasih-bukuku-FnZ {
+          letter-spacing: 0.03rem;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          margin: 0rem 0rem 4.417rem 3rem;
+          max-width: 49.6rem;
+          font-size: 2rem;
+          font-weight: 500;
+          line-height: 2;
+        }
+        .group-123-VB7 {
+          margin-left: 3.3333rem;
+          display: flex;
+          column-gap: 1.8662rem;
+          align-items: center;
+
+          .iconly-bold-star-Dcu {
+            width: 3.3338rem;
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .iconly-bold-star-MUD {
+            width: 3.3338rem;
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .iconly-bold-star-uEq {
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 3.3338rem;
+          }
+          .iconly-bold-star-ey7 {
+            flex-shrink: 0;
+            width: 3.3338rem;
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+          .iconly-bold-star-ob7 {
+            width: 3.3338rem;
+            height: 3.1669rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+    .titik-2-JXs {
+      margin: 0rem 61.8rem 10rem 61.8rem;
+      width: calc(100% - 123.6rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .ellipse-12-2yf {
+        margin-right: 1.4609rem;
+        width: 1.8261rem;
+        height: 1.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .ellipse-13-Nnd {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 1.4609rem;
+        width: 1.8261rem;
+        height: 1.9rem;
+      }
+      .ellipse-14-817 {
+        width: 1.8261rem;
+        height: 1.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .kerjasama-bukuku-4vM {
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      font-size: 3.6rem;
+      line-height: 2.0833333333;
+      color: #000000;
+      display: flex;
+      align-items: baseline;
+      flex-shrink: 0;
+      margin-left: 0.6rem;
+      font-weight: 700;
+      letter-spacing: 0.03rem;
+
+      .kerjasama-bukuku-4vM-sub-0 {
+      }
+      .kerjasama-bukuku-4vM-sub-1 {
+        font-size: 3.6rem;
+        font-weight: 700;
+        line-height: 2.0833333333;
+        letter-spacing: 0.03rem;
+        color: #1b2a7a;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .kerjasama-bukuku-4vM-sub-2 {
+      }
+    }
+  }
+  .kerjasama-ReR {
+    background-color: #ebebeb;
+    padding: 6rem 6rem 6.1rem 6rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10rem;
+    box-sizing: border-box;
+    flex-shrink: 0;
+
+    .logo-baru-grasindo-2-1-removebg-preview-1-wsf {
+      flex-shrink: 0;
+      margin: 0rem 7.1rem 1.3rem 0rem;
+      width: 30rem;
+      height: 9rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+    .logo-gm-removebg-preview-1-TLD {
+      height: 10.3rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-right: 11.6rem;
+      width: 15.2rem;
+    }
+    .logo-penerbit-erlangga-removebg-preview-1-ntH {
+      margin: 0rem 11.6rem 0.1rem 0rem;
+      width: 28.7rem;
+      height: 10.2rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .logo-baru-april-1024x362-removebg-preview-1-6ty {
+      flex-shrink: 0;
+      margin-bottom: 1.6rem;
+      width: 27.8rem;
+      height: 8.7rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+  }
+  .footer-21w {
+    padding: 6rem 0rem 2.4rem 0rem;
+    width: 100%;
+    overflow: hidden;
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    display: flex;
+    background-color: #1b2a7a;
+    position: relative;
+
+    .auto-group-gnq7-M4D {
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 6.8rem 4.1rem 6rem;
+      width: calc(100% - 12.8rem);
+      height: 36.2rem;
+      display: flex;
+
+      .auto-group-dv93-Ggy {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .bukuku-dGd {
+          flex-shrink: 0;
+          font-weight: 700;
+          line-height: 1.5625;
+          letter-spacing: 0.03rem;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          margin-bottom: 2rem;
+          font-size: 4.8rem;
+          white-space: nowrap;
+        }
+        .sebuah-platform-yang-dapat-memudahkan-pengguna-untuk-menemukan-berbagai-judul-buku-secara-digital-Lgq {
+          margin-bottom: 4rem;
+          line-height: 1.6;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          max-width: 35.4rem;
+          font-size: 2rem;
+          font-weight: 500;
+          letter-spacing: 0.03rem;
+          color: #ffffff;
+        }
+        .temukan-kami-zmP {
+          width: 35.2rem;
+          flex-shrink: 0;
+
+          .temukan-kami-kEm {
+            margin-bottom: 1.9rem;
+            font-size: 2.4rem;
+            font-weight: 600;
+            line-height: 1.6666666667;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .social-media-gPK {
+            align-items: center;
+            box-sizing: border-box;
+            padding-right: 0.3333rem;
+            width: 100%;
+            display: flex;
+
+            .icon-facebook-R61 {
+              width: 4rem;
+              height: 4rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-right: 1.7rem;
+            }
+            .icon-instagram-x5w {
+              margin-right: 2.0333rem;
+              width: 3rem;
+              height: 3rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .icon-pinterest-6C9 {
+              flex-shrink: 0;
+              margin: 0rem 1.867rem 0rem 0rem;
+              width: 3.3333rem;
+              height: 3.3333rem;
+              object-fit: contain;
+              vertical-align: top;
+            }
+            .icon-youtube-QyX {
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-right: 2.0799rem;
+              width: 3.3333rem;
+              height: 2.3363rem;
+            }
+            .icon-tiktok-9w7 {
+              flex-shrink: 0;
+              margin: 0rem 2.247rem 0rem 0rem;
+              width: 2.9069rem;
+              height: 3.3333rem;
+              object-fit: contain;
+              vertical-align: top;
+            }
+            .icon-linkedin-t81 {
+              width: 3rem;
+              height: 3rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-right: 2.0333rem;
+            }
+            .icon-twitter-dbP {
+              width: 3.3333rem;
+              height: 2.7085rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+          }
+        }
+      }
+      .auto-group-qw49-B77 {
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding-left: 13.4rem;
+        height: 100%;
+
+        .layanan-KDK {
+          margin-right: 11.2rem;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .layanan-ryw {
+            margin: 0rem 0rem 2.8rem 0.1rem;
+            font-size: 2.8rem;
+            font-weight: 600;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            line-height: 1.4285714286;
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .bantuan-NhP {
+            margin: 0rem 0rem 1.2rem 0.1rem;
+            line-height: 2;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2rem;
+            font-weight: 500;
+          }
+          .tanya-jawab-hDs {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0rem 0rem 1.2rem 0.1rem;
+            line-height: 2;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 500;
+          }
+          .riwayat-baca-CAd {
+            line-height: 2;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2rem;
+            font-weight: 500;
+          }
+        }
+        .tentang-kami-Xih {
+          margin-right: 11.5rem;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .tentang-kami-5ER {
+            font-size: 2.8rem;
+            font-weight: 600;
+            font-family: Poppins, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 0rem 0rem 2.8rem 0.1rem;
+            line-height: 1.4285714286;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            white-space: nowrap;
+          }
+          .profile-yqb {
+            font-weight: 500;
+            line-height: 2;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            white-space: nowrap;
+            margin: 0rem 0rem 1.2rem 0.1rem;
+            font-size: 2rem;
+            font-family: Poppins, 'Source Sans Pro';
+            flex-shrink: 0;
+          }
+          .kerjasama-HbP {
+            font-size: 2rem;
+            line-height: 2;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            white-space: nowrap;
+            margin: 0rem 0rem 1.2rem 0.1rem;
+            font-weight: 500;
+            font-family: Poppins, 'Source Sans Pro';
+            flex-shrink: 0;
+          }
+          .kebijakan-privasi-bc5 {
+            line-height: 2;
+            letter-spacing: 0.03rem;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-bottom: 1.2rem;
+            font-size: 2rem;
+            font-weight: 500;
+            color: #ffffff;
+          }
+          .syarat-ketentuan-Wyw {
+            line-height: 2;
+            color: #ffffff;
+            font-size: 2rem;
+            font-weight: 500;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-left: 0.1rem;
+            letter-spacing: 0.03rem;
+          }
+        }
+        .kontak-dYm {
+          box-sizing: border-box;
+          padding-left: 0.1rem;
+          width: 24.9rem;
+          flex-shrink: 0;
+
+          .kontak-B4V {
+            white-space: nowrap;
+            margin-bottom: 2.2rem;
+            font-size: 2.8rem;
+            font-weight: 600;
+            line-height: 1.4285714286;
+            letter-spacing: 0.03rem;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+          .auto-group-lcbb-v25 {
+            margin: 0rem 6.1rem 1.6rem 0.25rem;
+            width: calc(100% - 6.35rem);
+            display: flex;
+            align-items: center;
+
+            .icon-whatsapp-qPw {
+              margin: 0rem 1.55rem 0rem 0rem;
+              width: 2.1rem;
+              height: 2.0323rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .item-082345678910-ABK {
+              flex-shrink: 0;
+              font-size: 2rem;
+              font-weight: 500;
+              line-height: 2;
+              letter-spacing: 0.03rem;
+              color: #ffffff;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .auto-group-kwym-USu {
+            display: flex;
+            align-items: center;
+            margin: 0rem 0rem 1.3rem 0.1rem;
+            width: calc(100% - 0.1rem);
+
+            .subtract-CNu {
+              margin: 0.4rem 1.514rem 0rem 0rem;
+              width: 2.2857rem;
+              height: 2rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .bukukugmailcom-is3 {
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 2rem;
+              font-weight: 500;
+              line-height: 2;
+              letter-spacing: 0.03rem;
+              color: #ffffff;
+              font-family: Poppins, 'Source Sans Pro';
+            }
+          }
+          .auto-group-4td7-SY9 {
+            margin: 0rem 5.7rem 0rem 0.084rem;
+            width: calc(100% - 5.7838rem);
+            display: flex;
+            align-items: center;
+
+            .telepon-Mf7 {
+              margin: 0rem 1.212rem 0.029rem 0rem;
+              width: 2.6042rem;
+              height: 2.6196rem;
+              position: relative;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .item-021-1234-5678-UUq {
+              color: #ffffff;
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 2rem;
+              font-weight: 500;
+              line-height: 2;
+              letter-spacing: 0.03rem;
+            }
+          }
+        }
+      }
+    }
+    .garis-footer-Pbo {
+      margin-bottom: 2.2rem;
+      width: 100%;
+      height: 0.4rem;
+      background-color: #ffffff;
+      flex-shrink: 0;
+    }
+    .auto-group-iquh-XCD {
+      margin-left: 6rem;
+      display: flex;
+      column-gap: 0.8rem;
+      align-items: center;
+      flex-shrink: 0;
+
+      .copyright-Ftu {
+        letter-spacing: 0.03rem;
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 2rem;
+        font-weight: 500;
+        line-height: 2;
+      }
+      .item--BXf {
+        letter-spacing: 0.03rem;
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 3.6rem;
+        font-weight: 500;
+        line-height: 1.1111111111;
+      }
+      .bukuku-2023-7AR {
+        line-height: 2;
+        letter-spacing: 0.03rem;
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 2rem;
+        font-weight: 500;
+      }
+    }
+  }
+}

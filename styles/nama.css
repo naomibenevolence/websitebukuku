@@ -1,0 +1,35 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 116.4rem;
+}.nama-8rM {
+  box-sizing: border-box;
+  padding: 10.3rem 7rem 11.4rem 7rem;
+  width: 100%;
+  height: 61.7rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 3rem;
+}
+.nama-8rM .naomi-benevolence-santoso-1204220027-is-05-04-pemrograman-web-G5P {
+  max-width: 102.4rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.5625;
+  letter-spacing: 0.03rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
